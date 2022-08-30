@@ -14,7 +14,7 @@
 - Clone this repo: `git clone https://github.com/jfachrel/Image-Upscaling-on-Face-Detection.git`
 - Change the working directory: `cd Image-Upscaling-on-Face-Detection`
 - Install dependencies: `pip install -r requirements.txt`
-- Run thi command: `streamlit run App.py`
+- Run this command: `streamlit run App.py`
 
 The following is the appearance of the application.
 
