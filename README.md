@@ -11,8 +11,8 @@
 
 ### Via Cloning This Repo
 
-- Clone this repo: `git clone https://github.com/jfachrel/Image-Upscaler-Using-Super-Resolution.git`
-- Change the working directory: `cd Image-Upscaler-Using-Super-Resolution`
+- Clone this repo: `git clone https://github.com/jfachrel/Image-Upscaling-on-Face-Detection.git`
+- Change the working directory: `cd Image-Upscaling-on-Face-Detection`
 - Install dependencies: `pip install -r requirements.txt`
 - Run thi command: `streamlit run App.py`
 
