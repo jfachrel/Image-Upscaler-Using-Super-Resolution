@@ -2,10 +2,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ycNuUieEq941P29Ubuy5B-HY7Qz4BPj1?usp=sharing)
 
-<p float="left">
-  <img src="https://github.com/jfachrel/Image-Upscaler-Using-Super-Resolution/blob/main/assets/1.jpg" width="400" />
-  <img src="https://github.com/jfachrel/Image-Upscaler-Using-Super-Resolution/blob/main/outputs/LapSRN_x8.jpeg" width="400" /> 
-</p>
 
 ## How to Run This App
 
